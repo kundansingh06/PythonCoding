@@ -38,6 +38,9 @@ When you are searching for a dataset stored in contiguous memory.
 
 
 
+#
+
+
 * Linear Search: input data need not to be in sorted.
 * Binary Search: input data need to be in sorted order.
 
