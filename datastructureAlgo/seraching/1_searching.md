@@ -15,10 +15,13 @@ Binary Search: Only single dimensional array is used.
 * Linear Search: performs equality comparisons,less complex,very slow process.
 Binary Search: performs ordering comparisons,more complex,very fast process.
 
+Let us look at an example to compare two:
 
+Linear serach to find element "J" in a given sorted list from A-X 
 ![linearSearch.png](linearSearch.png)
 
 
+Binary serach to find element "J" in a given sorted list from A-X
 ![binarysearch.png](binarysearch.png)
 
 ```
